@@ -1,3 +1,7 @@
+//
+//Arduino Sketch to generate Clock Pulses from MIDI Sync
+//To sync pre-MIDI drum machines
+//
 //#define DEBUG_OUTPUT
 #define TRUE 1
 #define FALSE 0
