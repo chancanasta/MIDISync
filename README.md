@@ -6,4 +6,4 @@ a square wave pulse that will drive the clock sync inputs of pre-MIDI drum machi
 
 It can output 24/48/96 pulses per quarter note (PPQ) - which covers old Roland, Linn and Oberheim drum machines
 
-To meet MIDI standards, an opto isolator should be used when connecting the MIDI input
+To meet MIDI standards, an opto isolator should be used when wiring the MIDI input
