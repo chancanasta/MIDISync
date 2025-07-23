@@ -1,5 +1,6 @@
 # MIDISync
 Arduino project to sync old pre-MIDI drum machines (Linn, Oberheim) to MIDI
+Tested and working with a LinnDrum
 ## MIDI to Clock Pulse
 This is an Arduino sketch that reads in MIDI clock signals and converts them to
 a square wave pulse that will drive the clock sync inputs of pre-MIDI drum machines.
